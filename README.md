@@ -1,2 +1,3 @@
-# cubos-academy-psel-isa
-Repositório CubosAcademy
+# Repositório dos exercícios ISA 
+
+Conjunto de 12 exercícios JS de desafio para o PDZ
